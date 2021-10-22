@@ -1,0 +1,12 @@
+h1 {text-align: center;color:#7f5539;}
+h2{text-align: center;color:#b08968;}
+h3{text-align: center; color: #ddb892;}
+h4{text-align: center;color: #231c07 }
+p{text-align: center;color: #432818;}
+img{
+    width: 250px;
+    height: 330px;
+   margin: auto;
+   display: block;
+}
+
